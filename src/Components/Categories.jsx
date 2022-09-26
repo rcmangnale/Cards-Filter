@@ -9,7 +9,7 @@ const Categories = [
       id: 7,
       category:'popular',
       title: "The Vincent Van Dough gallery",
-      image: "https://picsum.photos/600/400/?random",
+      image: "/assets/oldhome.jpg",
     },
     {
       id: 2,
@@ -21,25 +21,25 @@ const Categories = [
       id: 3,
       category:'genesis',
       title: "6529 AB + 1",
-      image: "/assets/pic.jpg",
+      image: "/assets/oldhome.jpg",
     },
     {
       id: 4,
       category:'temple',
       title: " #9049",
-      image: "/assets/pic.jpg",
+      image: "/assets/home.jpg",
     },
     {
       id: 5,
       category:'void',
       title: "6529 Photo A",
-      image: "/assets/pic.jpg",
+      image: "/assets/oldhome.jpg",
     },
     {
       id: 6,
       category:'Bayc',
       title: "BAYC",
-      image: "/assets/pic.jpg",
+      image: "/assets/oldhome.jpg",
     },
     {
       id: 9,
@@ -51,19 +51,19 @@ const Categories = [
       id: 10,
       category:'popular',
       title: "The Vincent Van Dough gallery",
-      image: "/assets/pic.jpg",
+      image: "/assets/vendar.jpg",
     },
     {
       id: 11,
       category:'latest',
       title: "Teufzer",
-      image: "/assets/pic.jpg",
+      image: "/assets/natural.jpg",
     },
     {
       id: 12,
       category:'genesis',
       title: "6529 AB + 1",
-      image: "/assets/pic.jpg",
+      image: "/assets/nft.jpg",
     },
     {
       id: 13,
@@ -75,13 +75,13 @@ const Categories = [
       id: 14,
       category:'void',
       title: "6529 Photo A",
-      image: "/assets/pic.jpg",
+      image: "/assets/oldhome.jpg",
     },
     {
       id: 15,
       category:'Bayc',
       title: "BAYC",
-      image: "/assets/pic.jpg",
+      image: "/assets/natural.jpg",
     },
   ];
   
